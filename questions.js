@@ -1,7 +1,7 @@
 const questions = [{
         title: "What is the name of the man Rachel almost marries?",
-        choices: ["Ricky", "Sam", "Berry", "Jerry"],
-        answer: "Berry"
+        choices: ["Ricky", "Sam", "Barry", "Jerry"],
+        answer: "Barry"
     },
 
     {
@@ -25,7 +25,7 @@ const questions = [{
     {
         title: "What do they call their neighbor across the street??",
         choices: ["Naked Guy", "Ugly Naked Guy", "The Poker", "Naked Neighbour Guy"],
-        answer: "Cantharellus"
+        answer: "Ugly Naked Guy"
     },
 
     {
